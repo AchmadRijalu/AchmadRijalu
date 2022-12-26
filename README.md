@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ⚡ Hi, I am Achmad Rijalu <br>👯 I’m looking to collaborate with software development in Web and Mobile<br>🌱 I’m currently focusing on Dart Programming Language using Flutter Framework<br>💬 Ask me in:<br>Linkedin : https://www.linkedin.com/in/achmad-rijalu-a-9a105a205/<br>Instagram : https://www.instagram.com/achjaluwae/<br>Email : achmad.rijalu@gmail.com
 
 
