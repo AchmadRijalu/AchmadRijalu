@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achmad Rijalu</h1>
-<h3 align="center">Long life learner college student that passionate to be a Software Engineer</h3>
+<h3 align="center">Long life learner that passionate about being a Mobile Developer</h3>
 
 - 🌱 I’m currently learning **Flutter and iOS Development using Swift**
 
