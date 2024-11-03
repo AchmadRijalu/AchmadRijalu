@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Achmad Rijalu</h1>
-<h3 align="center">Long life learner that passionate about being a Mobile Developer</h3>
+<h3 align="center">Mobile Engineer and Lifelong Learner</h3>
 
-- 🌱 I’m currently learning **Flutter and iOS Development using Swift**
+- 🌱  **Currently focused on Flutter and iOS development**
 
-- 💬 Ask me about **SwiftUI, and Flutter**
+- 💬 Ask me about **UIKit, SwiftUI, and Flutter**
 
 - 📫 How to reach me **achmad.rijalu@gmail.com**
 
